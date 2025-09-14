@@ -15,7 +15,7 @@ It provides a 360° view of revenue, profit, product categories, customer contri
 - Which category is contributing maximum to the sales?
 
 - Dashboard Interation <a href="https://github.com/pratapmishra73/Data_Analysis_Dashboard/blob/main/power_bi_dashboard.png"> View Dashboard</a>
-##Dashboard
+## Dashboard
 <img width="1163" height="654" alt="power_bi_dashboard" src="https://github.com/user-attachments/assets/f9534b8e-9a14-452d-a480-c52fd7a444db" />
 
 ## Tools & Technologies Used
