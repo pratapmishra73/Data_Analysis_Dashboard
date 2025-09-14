@@ -1,4 +1,4 @@
-# Madhav E-commerce Sales Dashboard.(Interactive Dashboard using Power-BI)
+# E-commerce Sales Dashboard.(Interactive Dashboard using Power-BI)
 ## Project Objective
 This project is an interactive Power BI dashboard designed to analyze and visualize **E-commerce sales performance**.  
 It provides a 360° view of revenue, profit, product categories, customer contributions, payment preferences, and sales trends across different states.  
